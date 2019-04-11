@@ -7,13 +7,13 @@ A free public version of POLARBOT, a discord bot that can provide news updates, 
 - [x] Proxy Checker
 - [x] Proxy Scraper
 - [x] Supreme News
-- [ ] Proxy Creation via Digital Ocean, Google Cloud, Amazon Web Services [**Currently in development**]
+- [x] Proxy Creation via Digital Ocean, Google Cloud, Amazon Web Services [**Currently in development**]
 - [ ] Shopify News
 - [ ] Restock Monitor
 - [ ] Polar Cop Support
 - [ ] Quick Links for Polar Cop
 - [ ] Polar Cop Notifications
-- [ ] Proxy Speed Checker
+- [x] Proxy Speed Checker
 
 ### Help
 **?help** - This will return all the current available commands.
