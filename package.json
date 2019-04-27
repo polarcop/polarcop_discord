@@ -1,0 +1,35 @@
+{
+  "name": "PolarCopDiscordBot",
+  "version": "0.0.1",
+  "description": "A free public version of POLARBOT, a discord bot that can provide news updates, droplists, check proxies and make proxies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.4.2",
+    "discord.io": "^2.5.3",
+    "winston": "^3.1.0",
+    "request": "^2.88.0",
+    "async": "^2.6.1",
+    "randomstring": "^1.1.5",
+    "do-wrapper": "^3.19.2",
+    "underscore": "^1.9.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/polarcop/polarcop_discord"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Polar",
+    "Cop",
+    "Discord",
+    "Bot",
+    "Supreme",
+    "Shopify"
+  ]
+}
